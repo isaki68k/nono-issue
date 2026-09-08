@@ -1,1 +1,1 @@
-Here is nono's public issue.
+Here is [nono](https://www.pastel-flower.jp/~isaki/nono)'s public issue.
